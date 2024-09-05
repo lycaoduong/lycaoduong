@@ -1,6 +1,6 @@
 ## Hi there 👋. I am Cao Duong Ly. Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lycaoduong.repoName)
 
-- 🔭 I’m currently working as a Computer Vision, AI Engineer, Biomedical Engineering.
+- 🔭 I’m currently working as a Computer Vision/ AI Engineer.
 - 🌱 I’m currently learning JavaScript, React.
 - 💬 Ask me about Python, C++.
 - 😄 Pronouns: He/Him. 
