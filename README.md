@@ -1,7 +1,7 @@
 ## Hi there 👋. I am Cao Duong Ly. Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lycaoduong.repoName)
 
 - 🔭 I’m currently working as a Computer Vision/ AI Engineer.
-- 🌱 I’m currently learning JavaScript, React.
+- 🌱 I’m currently learning Flutter, React.
 - 💬 Ask me about Python, C++.
 - 😄 Pronouns: He/Him. 
 - 📫 How to reach me: <a href="mailto:lycaoduong@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/cao-duong-ly-764b93114/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://scholar.google.com/citations?user=CHhBdDUAAAAJ&hl=ko&oi=ao"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge&logoColor=white"></a>
